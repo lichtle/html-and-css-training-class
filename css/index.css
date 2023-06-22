@@ -64,6 +64,8 @@ li a:hover {
   background-color: #1f1f1f;
 }
 
+/* MAIN CONTENT */
+
 main h2 {
   text-align: center;
   background-color: #000;
@@ -87,6 +89,8 @@ main .info-paragraphs p {
   font-size: 18px;
   margin-bottom: 16px;
 }
+
+/* FOOTER */
 
 footer {
   background-color: #d2232a;
